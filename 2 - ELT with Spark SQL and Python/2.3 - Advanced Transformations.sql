@@ -68,6 +68,14 @@ SELECT * FROM customers_final;
 
 -- COMMAND ----------
 
+
+
+-- COMMAND ----------
+
+
+
+-- COMMAND ----------
+
 SELECT order_id, customer_id, books FROM orders;
 
 -- COMMAND ----------
